@@ -13,3 +13,9 @@
 ### AIプログラミング
 1. AIプログラミングPython基礎
 2. 実装シリーズ
+
+## LICENSE
+Licenseは、データ内容が少々特殊ということもあり、MITなどのソースコード系ライセンスではなく、CC BY-NC 4.0 を採用しました
+
+----
+citrus-mizuha/youtube_materials © 2024 by mizuha is licensed under Creative Commons Attribution-NonCommercial 4.0 International 

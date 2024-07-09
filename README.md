@@ -22,8 +22,15 @@
 
 ## LICENSE
 
-Licenseは、データ内容が少々特殊ということもあり、MITなどのソースコード系ライセンスではなく、CC BY-NC 4.0 を採用しました
+Licenseは、データ内容が少々特殊ということもあり、スライド等資料については、MITなどのソースコード系ライセンスではなく、CC BY-NC 4.0 を採用しました
+
+なお、ソースコードに関しては、そのファイル自体に明記がない場合は、"The Unlicense" として扱っていただいて構いません
+
 商用利用を希望する場合は一声おかけください
+使用目的など、条件に応じては許可する場合もあります
+
+[Mail](mailto:citrus.mizuha@outlook.jp)
+
 
 ##
 citrus-mizuha/youtube_materials © 2024 by mizuha is licensed under Creative Commons Attribution-NonCommercial 4.0 International 

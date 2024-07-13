@@ -1,4 +1,12 @@
+## About
+[Youtube - mizuha_python](https://www.youtube.com/@mizuha_python) で使用する or 使用したスライドたちの保管庫です
+
+使用したい場合は、`CC BY-NC 4.0 License` に則って使用してください
+
 ## Series
+### Codonerプロジェクト　解説・近況報告 シリーズ
+"[Codoner](https://github.com/citrus-mizuha/Codoner)" プロジェクトの概要や、具体的な暗号化方法などを解説します
+
 ### AI数学のきほん シリーズ
 
 1. AI数学のきほんの「き」

@@ -3,6 +3,8 @@
 
 使用したい場合は、`CC BY-NC 4.0 License` に則って使用してください
 
+その他詳細は、[Homepage](https://citrus-mizuha.github.io/) の Youtube List のところにまとめると思います
+
 ## Series
 ### Codonerプロジェクト　解説・近況報告 シリーズ
 "[Codoner](https://github.com/citrus-mizuha/Codoner)" プロジェクトの概要や、具体的な暗号化方法などを解説します
@@ -27,6 +29,8 @@
 ここをこう教えれば良いのに、友達にこう教えたら伝わった、などの私の経験をもとに作ります
 （少なくとも私の学校の情報の先生よりはうまく教えられる自信あります）
 
+### その他雑多
+やるかもしれません
 
 ## LICENSE
 
